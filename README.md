@@ -1,9 +1,10 @@
-# dockerCommand
+![dockerStat script preview](/dockerStat.png)
+
 This is a simple script that shows a pretty Docker output.
 
 It shows:
 
 - ALL IMAGES
-- Containers in ALL STATES
-- ALL RUNNING state containers
+- ALL STATES
+- ALL RUNNING
 
