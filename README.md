@@ -1,14 +1,14 @@
-![dockerStat script preview](/dockerStat.png)
+![dockerStat script preview](preview_dockerStat.gif)
 
 dockerStat.zsh is a simple script that shows a pretty Docker output.
 
 It shows
-- ALL IMAGES
-
+	- ALL IMAGES
 In
-- ALL STATES
-
+	- ALL STATES
 And
-- ALL RUNNING
+	- ALL RUNNING
+Plus
+	- A handy command cheatsheet
 
 👾
